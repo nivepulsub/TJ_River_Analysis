@@ -1,0 +1,134 @@
+---
+title: "TJ_22samples_MAG_relative_abundance_NMDS"
+output: html_document
+date: "2025-07-02"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(vegan)
+library(ggplot2)
+library(ggrepel)
+```
+
+#Preprocessing data
+```{r}
+getwd()
+#Import the MAG relative abundance table for Dataset1
+#This table contains MAG relative abundances per sample
+dataset = read.csv("../../Data/Dataset1/MAGs_feature_table_lowest_taxonomy_dataset1.csv", row.names = 1, check.names = FALSE)
+head(dataset)
+
+#Import the mapping file
+map = read.csv("../../Data/Dataset1/00_TJRIVER_mappingfile.csv")
+head(map)
+
+#Convert to Date (for correct sorting)
+map$Date_str <- gsub("_", "-", map$date)
+map$Date <- as.Date(map$Date_str, format = "%m-%d-%Y")
+
+#Confirm structure
+str(map$Date)
+
+#Order factor by ascending date
+map$Date_factor <- factor(map$date, levels = sort(unique(map$Date)))
+
+#Convert the factor labels back to m-d-y format
+levels(map$Date_factor) <- format(sort(unique(map$Date)), "%m_%d_%y")
+
+```
+#RCLR Standardization
+```{r}
+dataset_rclr <- decostand(dataset, method = "rclr")
+head(dataset_rclr)
+
+```
+#Minimum value imputation
+#Find the minimum value of the dataset:
+```{r}
+dataset_rclr_min_value <- min(dataset_rclr)
+dataset_rclr_min_value
+```
+#Substitute "0" with the minimum value we got from the above step
+```{r}
+dataset_rclr_min_sub = dataset_rclr # Copy the data
+
+dataset_rclr_min_sub[dataset_rclr_min_sub == 0] = dataset_rclr_min_value
+head(dataset_rclr_min_sub)
+
+#saving the file
+write.csv(dataset_rclr_min_sub, "../../Output/Dataset1/MAG_rclr_dataset1.csv", row.names = TRUE)
+
+# Copy the dataset
+dataset_rclr_min_sub2 <- dataset_rclr_min_sub
+
+# Remove 'S1-' from all column names
+colnames(dataset_rclr_min_sub2) <- gsub("S1-", "", colnames(dataset_rclr_min_sub2))
+
+# Remove leading and trailing spaces
+colnames(dataset_rclr_min_sub2) <- gsub("^\\s+|\\s+$", "", colnames(dataset_rclr_min_sub2))
+
+# Check the result
+head(dataset_rclr_min_sub2)
+
+# Save to a new CSV file
+write.csv(dataset_rclr_min_sub2, "../../Output/Dataset1/MAG_rclr_dataset1_noS1.csv", row.names = TRUE)
+
+```
+
+#PERMANOVA Analysis:
+```{r}
+#Create a Euclidean distance matrix
+rclr_dist<-vegdist(dataset_rclr_min_sub, method='euclidean')
+data_matrix <- as.matrix(rclr_dist)
+
+#Convert to matrix for inspection
+dim(data_matrix)
+dim(map)
+
+#Run PERMANOVA with 9999 permutations
+permanova_1 <- adonis2(rclr_dist ~ site, data = map, permutations = 9999)
+permanova_1
+permanova_2 <- adonis2(rclr_dist ~ date, data = map, permutations = 9999)
+permanova_2
+permanova_3 <- adonis2(rclr_dist ~ number, data = map, permutations = 9999)
+permanova_3
+
+#The p-value 0.0033 indicates there is a significant difference with site
+#The p-value 0.6404 indicates there is no significant difference with date
+#The p-value 0.7466 indicates there is no significant difference with number(sample)
+```
+#NMDS ordination
+```{r}
+#Run NMDS on the already RCLR-transformed dataset using Euclidean distance
+data_rclr_nmds = metaMDS(dataset_rclr_min_sub, distance = "euclidean", parallel = 2, k = 2)
+
+#Report Stress from the NMDS
+stress <- data_rclr_nmds$stress
+stress
+#Stress value of 0.06372356 is a very good fit
+
+#Convert to dataframe for ggplot
+data_rclr_nmds = as.data.frame(scores(data_rclr_nmds))
+
+```
+#Visualization with NMDS
+```{r}
+#Convert variables to factors
+data_rclr_nmds$number <- as.factor(map$number)
+data_rclr_nmds$site <- as.factor(map$site)
+data_rclr_nmds$date <- as.factor(map$date)
+
+#NMDS plot
+metagen_nmdsplot <- ggplot(data_rclr_nmds, aes(x = NMDS1, y = NMDS2)) +
+  geom_point(aes(colour=site,shape=date),size = 3) +   
+  geom_text_repel(aes(label = number), size = 2, vjust = -1) +  
+  ggtitle('NMDS of MAG Abundance Across Samples - Dataset 1') +
+  theme_classic() +
+  theme(
+    plot.title = element_text(color="black", size=10, face="bold"),
+    panel.background = element_rect(fill = "white",
+                                    colour = "black"))
+  
+metagen_nmdsplot
+```

@@ -1,0 +1,2 @@
+Data/Dataset1/virulence_factors_for_every_bin_dataset1.txt filter=lfs diff=lfs merge=lfs -text
+Data/Dataset2/virulence_factors_for_every_bin_dataset2.txt filter=lfs diff=lfs merge=lfs -text

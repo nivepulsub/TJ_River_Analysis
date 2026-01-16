@@ -1,0 +1,125 @@
+---
+title: "TJ_13_Read_Count_dataset2"
+output: html_document
+date: "2025-11-15"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(vegan)
+library(ggplot2)
+```
+
+#Preprocessing data
+```{r}
+#Import the ARG Read Count table for Dataset2
+#This table contains ARG counts per sample
+dataset = read.csv("../../Data/Dataset2/ARGs_CDS_feature_table_dataset2.csv",row.names = 1, check.names = FALSE)
+head(dataset)
+
+#Import the mapping file
+map = read.csv("../../Data/Dataset2/TJ_13_samples_mapping_file_1.csv", row.names = 1, check.names = FALSE)
+head(map)
+
+#Convert to Date (for correct sorting)
+map$`Date of sampling` <- gsub("_", "-", map$`Date of sampling`)
+map$`Date of sampling` <- as.Date(map$`Date of sampling`, format = "%m-%d-%Y")
+
+#Confirm structure
+str(map$`Date of sampling`)
+
+#Order factor by ascending date
+map$date <- factor(map$`Date of sampling`, levels = sort(unique(map$`Date of sampling`)))
+
+#Convert the factor labels back to m-d-y format
+levels(map$date) <- format(sort(unique(map$`Date of sampling`)), "%m_%d_%y")
+```
+
+#RCLR Standardization
+```{r}
+dataset_rclr <- decostand(dataset, method = "rclr")
+head(dataset_rclr)
+
+```
+#Minimum value imputation
+#Find the minimum value of the dataset:
+```{r}
+dataset_rclr_min_value <- min(dataset_rclr)
+dataset_rclr_min_value
+```
+#Substitute "0" with the minimum value we got from the above step
+```{r}
+dataset_rclr_min_sub = dataset_rclr # Copy the data
+
+dataset_rclr_min_sub[dataset_rclr_min_sub == 0] = dataset_rclr_min_value
+head(dataset_rclr_min_sub)
+rownames(dataset_rclr_min_sub)
+map$SampleID
+
+#saving the file
+write.csv(dataset_rclr_min_sub, "../../Output/Dataset2/ARG_rclr_dataset2.csv", row.names = TRUE)
+```
+#Match the order of the mapping file 
+```{r}
+map <- map[match(rownames(dataset_rclr_min_sub), map$SampleID), ]
+
+```
+#PERMANOVA Analysis:
+```{r}
+#Create a Euclidean distance matrix
+rclr_dist<-vegdist(dataset_rclr_min_sub, method='euclidean')
+data_matrix <- as.matrix(rclr_dist)
+
+#Convert to matrix for inspection
+dim(data_matrix)
+dim(map)
+
+#Run PERMANOVA with 9999 permutations
+permanova_1 <- adonis2(rclr_dist ~ Site, data = map, permutations = 9999)
+permanova_1
+permanova_2 <- adonis2(rclr_dist ~ `Date of sampling`, data = map, permutations = 9999)
+permanova_2
+permanova_3 <- adonis2(rclr_dist ~ Number, data = map, permutations = 9999)
+permanova_3
+
+#The p-value 0.1717 indicates there is no significant difference with site
+#The p-value 0.2993 indicates there is no significant difference with date
+#The p-value 0.1279 indicates there is no significant difference with number(sample)
+```
+#NMDS ordination
+```{r}
+#Run NMDS on the already RCLR-transformed dataset using Euclidean distance
+data_rclr_nmds = metaMDS(dataset_rclr_min_sub, distance = "euclidean", parallel = 2, k = 2)
+
+#Report Stress from the NMDS
+stress <- data_rclr_nmds$stress
+stress
+#Stress value of 0.04273089is a very good fit
+
+#Convert to dataframe for ggplot
+data_rclr_nmds = as.data.frame(scores(data_rclr_nmds))
+
+```
+#Visualization with NMDS
+```{r}
+#Convert variables to factors
+data_rclr_nmds$number <- as.factor(map$Number)
+data_rclr_nmds$site <- as.factor(map$Site)
+data_rclr_nmds$date <- as.factor(map$date)
+
+#NMDS plot
+metagen_nmdsplot <- ggplot(data_rclr_nmds, aes(x = NMDS1, y = NMDS2)) +
+  geom_point(aes(colour=site,shape=date),size = 3) +   
+  geom_text_repel(aes(label = number), size = 3, vjust = -1) +  
+  ggtitle('NMDS of ARG counts Across Samples - Dataset 2') +
+  theme_classic() +
+  theme(
+    plot.title = element_text(color="black", size=10, face="bold"),
+    panel.background = element_rect(fill = "white",
+                                    colour = "black")) +
+  scale_shape_manual(values = c(15, 16, 17, 18, 3, 4, 8))  # 7 distinct shapes for dates
+
+
+metagen_nmdsplot
+
+```

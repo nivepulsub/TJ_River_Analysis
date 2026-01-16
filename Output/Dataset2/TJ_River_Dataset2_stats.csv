@@ -1,0 +1,8 @@
+,TJ_River_mean,TJ_River_std
+Number of Edges,692.284,351.733
+Number of Nodes,174.632,44.253
+Average Degree Centrality,0.049,0.024
+Transitivity,0.0,0.0
+Closeness Centrality,0.195,0.057
+Betweeness Centrality,0.011,0.006
+Density,0.049,0.024

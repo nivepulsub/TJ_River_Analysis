@@ -1,0 +1,295 @@
+Bin_ID	Adherence	Antimicrobial	Biofilm	EDS	Exoenzyme	Exotoxin	Immune Mod.	Invasion	Motility	Nutri/Metab	Others	PTM	Regulation	Stress Survival	Total_VFs	Taxonomy	Full_Taxonomy	MAG_ID	Taxonomy_Label
+binning_output.186	23	2	11	7	0	2	16	1	30	19	0	0	6	2	117	Pseudomonas_E(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E;s__	S2-186	Pseudomonas_E(G) S2-186
+binning_output.246	24	2	1	18	3	6	10	0	35	12	0	0	6	2	117	Aeromonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Aeromonadaceae;g__Aeromonas;s__	S2-246	Aeromonas(G) S2-246
+binning_output.244	10	6	6	10	0	0	12	1	19	21	0	0	3	1	88	Escherichia coli(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Escherichia;s__Escherichia coli	S2-244	Escherichia coli(S) S2-244
+binning_output.171	13	1	0	11	0	2	42	1	0	8	0	0	2	0	80	Acinetobacter(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__	S2-171	Acinetobacter(G) S2-171
+binning_output.153	16	4	3	7	2	1	18	0	10	13	3	0	2	1	79	Burkholderiales(O)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__;g__;s__	S2-153	Burkholderiales(O) S2-153
+binning_output.207	32	1	4	2	1	0	15	0	16	5	0	0	2	3	78	Thiopseudomonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Thiopseudomonas;s__	S2-207	Thiopseudomonas(G) S2-207
+binning_output.052	11	3	2	9	0	1	13	0	15	15	0	0	2	0	71	Aeromonas caviae(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Aeromonadaceae;g__Aeromonas;s__Aeromonas caviae	S2-052	Aeromonas caviae(S) S2-052
+binning_output.148	5	2	4	10	0	2	11	0	11	18	0	0	7	1	70	CAISIP01(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__CAISIP01;s__	S2-148	CAISIP01(G) S2-148
+binning_output.129	9	3	1	18	0	0	16	0	7	10	1	0	2	2	67	Zoogloea ramigera(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Zoogloea;s__Zoogloea ramigera	S2-129	Zoogloea ramigera(S) S2-129
+binning_output.167	10	3	2	10	1	0	15	0	4	16	1	1	2	0	65	Arenimonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Arenimonas;s__	S2-167	Arenimonas(G) S2-167
+binning_output.184	5	4	5	2	0	1	13	0	17	14	0	1	3	3	65	Thiopseudomonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Thiopseudomonas;s__	S2-184	Thiopseudomonas(G) S2-184
+binning_output.122	7	3	1	7	1	2	14	0	12	11	0	1	2	0	61	Comamonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Comamonas;s__	S2-122	Comamonas(G) S2-122
+binning_output.222	11	1	0	6	1	3	13	0	6	18	1	0	0	5	60	Flavobacteriaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__;s__	S2-222	Flavobacteriaceae(F) S2-222
+binning_output.203	8	1	3	16	0	1	22	0	3	3	0	0	1	0	58	Acinetobacter(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__	S2-203	Acinetobacter(G) S2-203
+binning_output.120	9	7	2	2	0	0	12	1	6	15	0	0	4	1	58	Comamonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Comamonas;s__	S2-120	Comamonas(G) S2-120
+binning_output.230	11	1	0	4	0	4	15	0	4	12	1	1	2	1	55	GCA-002716945(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__GCA-002705445;f__GCA-002716945;g__;s__	S2-230	GCA-002716945(F) S2-230
+binning_output.266	10	1	4	8	2	1	9	0	8	10	0	0	2	2	55	Shewanella(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Shewanellaceae;g__Shewanella;s__	S2-266	Shewanella(G) S2-266
+binning_output.145	14	3	0	5	0	2	8	1	5	13	0	0	3	9	54	Giesbergeria(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Giesbergeria;s__	S2-145	Giesbergeria(G) S2-145
+binning_output.133	3	3	3	3	2	1	12	0	17	9	0	0	1	2	54	Pararheinheimera(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pararheinheimera;s__	S2-133	Pararheinheimera(G) S2-133
+binning_output.183	10	3	5	9	0	0	10	0	1	11	0	0	4	0	53	Stenotrophomonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Stenotrophomonas;s__	S2-183	Stenotrophomonas(G) S2-183
+binning_output.163	20	1	5	3	0	0	8	0	7	6	2	0	0	1	52	Pseudomonas_E(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E;s__	S2-163	Pseudomonas_E(G) S2-163
+binning_output.175	13	0	1	3	0	2	11	0	8	9	2	0	0	1	49	Acinetobacter(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__	S2-175	Acinetobacter(G) S2-175
+binning_output.210	6	0	3	8	0	2	10	0	10	6	0	0	4	1	49	Pararheinheimera(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pararheinheimera;s__	S2-210	Pararheinheimera(G) S2-210
+binning_output.231	6	1	1	4	0	0	10	0	18	5	0	0	3	0	48	Pseudomonadota(P)	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__;s__	S2-231	Pseudomonadota(P) S2-231
+binning_output.123	4	1	1	8	0	0	14	2	4	9	1	1	0	2	45	Halarcobacter(G)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Halarcobacter;s__	S2-123	Halarcobacter(G) S2-123
+binning_output.180	11	2	1	4	0	1	16	0	2	6	1	0	1	1	45	Opacimonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Opacimonas;s__	S2-180	Opacimonas(G) S2-180
+binning_output.235	4	0	1	3	1	1	9	0	14	10	0	0	1	0	44	GCA-002733105(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Nitrosococcales;f__Methylophagaceae;g__GCA-002733105;s__	S2-235	GCA-002733105(G) S2-235
+binning_output.242	7	0	1	3	1	0	13	0	9	7	0	1	2	2	44	Neisseria(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria;s__	S2-242	Neisseria(G) S2-242
+binning_output.087	4	5	1	9	0	1	6	0	4	13	0	0	0	1	43	Aquabacterium sp017989885(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Aquabacterium;s__Aquabacterium sp017989885	S2-087	Aquabacterium sp017989885(S) S2-087
+binning_output.245	6	0	0	3	0	1	10	0	13	8	0	0	0	0	41	Burkholderiaceae(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__;s__	S2-245	Burkholderiaceae(F) S2-245
+binning_output.221	4	1	1	4	0	1	10	0	6	11	1	0	2	5	41	Burkholderiaceae(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__;s__	S2-221	Burkholderiaceae(F) S2-221
+binning_output.310	12	2	3	1	0	0	8	0	6	7	0	0	2	1	41	Pseudomonadota(P)	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__;s__	S2-310	Pseudomonadota(P) S2-310
+binning_output.257	7	1	0	6	0	1	15	0	2	6	0	1	1	0	40	Algicoccus(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Algicoccus;s__	S2-257	Algicoccus(G) S2-257
+binning_output.154	4	0	2	5	0	1	23	0	1	3	0	0	0	0	39	Acinetobacter(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__	S2-154	Acinetobacter(G) S2-154
+binning_output.241	2	1	6	5	0	0	6	0	8	9	0	0	0	1	37	Gammaproteobacteria(C)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__;f__;g__;s__	S2-241	Gammaproteobacteria(C) S2-241
+binning_output.232	3	2	0	4	0	2	6	0	5	12	0	0	2	1	36	Burkholderiaceae(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__;s__	S2-232	Burkholderiaceae(F) S2-232
+binning_output.194	1	0	0	3	1	1	16	0	4	10	0	0	0	0	36	MAG-121220-bin8(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MAG-121220-bin8;s__	S2-194	MAG-121220-bin8(G) S2-194
+binning_output.151	2	0	1	4	0	0	10	0	1	17	0	0	1	1	36	D2472(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__D2472;g__D2472;s__	S2-151	D2472(G) S2-151
+binning_output.217	5	0	0	4	0	0	7	1	4	12	0	0	2	2	35	Planktomarina sp022425445(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Planktomarina;s__Planktomarina sp022425445	S2-217	Planktomarina sp022425445(S) S2-217
+binning_output.124	4	0	1	6	0	1	7	0	1	13	0	0	2	1	35	Unclassified Bacteria (D)	Unclassified Bacteria	S2-124	Unclassified Bacteria (D) S2-124
+binning_output.169	0	0	2	1	0	1	17	0	1	9	1	1	2	3	35	Bacteria(D)	d__Bacteria;p__;c__;o__;f__;g__;s__	S2-169	Bacteria(D) S2-169
+binning_output.147	3	0	2	3	0	1	19	0	4	2	0	0	0	2	34	HIMB59(F)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__HIMB59;f__HIMB59;g__;s__	S2-147	HIMB59(F) S2-147
+binning_output.249	4	0	0	5	0	0	8	0	3	13	0	0	1	2	34	Pseudotabrizicola sp025458085(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Pseudotabrizicola;s__Pseudotabrizicola sp025458085	S2-249	Pseudotabrizicola sp025458085(S) S2-249
+binning_output.192	10	7	0	1	0	0	2	0	5	9	0	0	0	0	34	Marinobacterium_E(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Nitrincolaceae;g__Marinobacterium_E;s__	S2-192	Marinobacterium_E(G) S2-192
+binning_output.128	6	2	6	6	0	1	4	0	5	3	0	0	1	2	34	Unclassified Bacteria (D)	Unclassified Bacteria	S2-128	Unclassified Bacteria (D) S2-128
+binning_output.024	8	2	1	7	2	2	5	0	0	5	0	0	1	2	33	Opacimonas sp000155775(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Opacimonas;s__Opacimonas sp000155775	S2-024	Opacimonas sp000155775(S) S2-024
+binning_output.275	8	1	0	4	0	0	13	0	1	5	0	0	1	2	33	NORP309(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Marinicellaceae;g__NORP309;s__	S2-275	NORP309(G) S2-275
+binning_output.261	3	0	1	2	0	0	8	0	7	8	0	0	3	2	32	Pseudomonadota(P)	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__;s__	S2-261	Pseudomonadota(P) S2-261
+binning_output.044	6	0	1	4	0	0	10	0	0	9	0	0	1	3	31	VMDJ01(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Chromatiales;f__Sedimenticolaceae;g__VMDJ01;s__	S2-044	VMDJ01(G) S2-044
+binning_output.131	1	0	2	0	0	2	9	0	7	2	0	1	6	3	30	Aliarcobacter(G)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Aliarcobacter;s__	S2-131	Aliarcobacter(G) S2-131
+binning_output.265	3	0	1	5	0	2	9	0	1	4	1	0	3	1	29	Proteiniphilum(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Dysgonomonadaceae;g__Proteiniphilum;s__	S2-265	Proteiniphilum(G) S2-265
+binning_output.187	2	0	0	2	1	1	13	0	0	9	0	0	1	0	29	Pseudomonadota(P)	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__;s__	S2-187	Pseudomonadota(P) S2-187
+binning_output.113	3	1	1	2	0	1	7	0	1	10	1	0	2	2	29	JALRJW01(G)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__JALRJW01;s__	S2-113	JALRJW01(G) S2-113
+binning_output.111	3	0	0	3	1	1	12	0	0	8	0	0	1	2	29	Flavobacterium(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__	S2-111	Flavobacterium(G) S2-111
+binning_output.247	4	2	3	5	0	0	3	0	4	6	0	0	2	1	29	Pararheinheimera(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pararheinheimera;s__	S2-247	Pararheinheimera(G) S2-247
+binning_output.272	3	0	0	3	1	2	5	0	2	10	0	0	2	1	28	Luminiphilus(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Luminiphilus;s__	S2-272	Luminiphilus(G) S2-272
+binning_output.101	4	0	2	2	0	1	2	1	7	6	1	0	1	1	27	CAISIP01(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__CAISIP01;s__	S2-101	CAISIP01(G) S2-101
+binning_output.225	4	1	1	4	0	2	5	0	2	5	1	0	2	1	27	Cyclobacterium amurskyense(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__Cyclobacterium;s__Cyclobacterium amurskyense	S2-225	Cyclobacterium amurskyense(S) S2-225
+binning_output.114	3	0	0	2	1	2	8	0	2	7	1	0	0	1	26	Gemmobacter_B(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	S2-114	Gemmobacter_B(G) S2-114
+binning_output.185	2	0	1	2	0	0	10	0	1	9	0	0	0	1	25	Flavobacteriaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__;s__	S2-185	Flavobacteriaceae(F) S2-185
+binning_output.107	2	0	1	2	1	0	10	0	2	6	0	0	1	2	25	SAR86(O)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__;g__;s__	S2-107	SAR86(O) S2-107
+binning_output.214	4	0	0	6	0	0	5	0	4	5	0	0	1	2	25	RGAU01 sp030433075(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Azotimanducaceae_A;g__RGAU01;s__RGAU01 sp030433075	S2-214	RGAU01 sp030433075(S) S2-214
+binning_output.158	2	0	1	2	0	2	8	0	0	6	1	0	2	0	24	Lutibacter(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Lutibacter;s__	S2-158	Lutibacter(G) S2-158
+binning_output.284	4	0	0	2	0	0	9	0	3	3	2	0	1	2	24	JAJRRL01(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__JAJRRL01;f__JAJRRL01;g__;s__	S2-284	JAJRRL01(F) S2-284
+binning_output.189	3	1	1	4	0	0	5	0	4	4	0	0	2	0	24	Gammaproteobacteria(C)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__;f__;g__;s__	S2-189	Gammaproteobacteria(C) S2-189
+binning_output.314	2	0	0	1	0	0	11	0	5	3	1	0	1	0	24	JAEUWI01(G)	d__Bacteria;p__Hydrogenedentota;c__Hydrogenedentia;o__Hydrogenedentiales;f__JAEUWI01;g__JAEUWI01;s__	S2-314	JAEUWI01(G) S2-314
+binning_output.271	0	0	0	1	0	2	0	0	6	11	0	0	3	1	23	Giesbergeria sp017987055(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Giesbergeria;s__Giesbergeria sp017987055	S2-271	Giesbergeria sp017987055(S) S2-271
+binning_output.042	4	2	0	6	0	0	8	0	1	2	0	0	0	0	23	Nitrosomonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__Nitrosomonas;s__	S2-042	Nitrosomonas(G) S2-042
+binning_output.009	9	2	0	6	1	0	3	0	0	2	0	0	0	0	23	Acinetobacter johnsonii(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter johnsonii	S2-009	Acinetobacter johnsonii(S) S2-009
+binning_output.196	2	0	1	3	0	1	6	0	2	8	0	0	0	0	23	BACL14(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Methylophilaceae;g__BACL14;s__	S2-196	BACL14(G) S2-196
+binning_output.276	4	0	0	4	0	0	5	0	3	5	0	0	1	1	22	Bact-08 sp018053445(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Bact-08;s__Bact-08 sp018053445	S2-276	Bact-08 sp018053445(S) S2-276
+binning_output.285	3	0	1	1	0	1	2	0	3	11	0	0	0	1	22	UBA8337 sp029253645(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Parvibaculales;f__RS24;g__UBA8337;s__UBA8337 sp029253645	S2-285	UBA8337 sp029253645(S) S2-285
+binning_output.293	3	1	3	1	0	0	2	0	4	8	0	0	0	0	22	RS62(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__RS62;s__	S2-293	RS62(G) S2-293
+binning_output.224	1	1	1	6	0	1	8	0	1	2	1	0	0	0	22	UBA1994(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA1994;s__	S2-224	UBA1994(G) S2-224
+binning_output.134	1	1	0	0	0	0	9	0	2	4	2	0	2	0	21	Erythrobacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	S2-134	Erythrobacter(G) S2-134
+binning_output.102	2	0	0	3	0	0	7	0	6	3	0	0	0	2	21	UBA3439 sp017859295(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Puniceispirillales;f__Puniceispirillaceae;g__UBA3439;s__UBA3439 sp017859295	S2-102	UBA3439 sp017859295(S) S2-102
+binning_output.256	3	0	1	2	0	0	7	0	3	4	0	0	1	0	21	Luminiphilus(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Luminiphilus;s__	S2-256	Luminiphilus(G) S2-256
+binning_output.072	4	0	0	5	0	0	6	0	1	5	0	0	0	0	21	Pararheinheimera tangshanensis(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Alteromonadaceae;g__Pararheinheimera;s__Pararheinheimera tangshanensis	S2-072	Pararheinheimera tangshanensis(S) S2-072
+binning_output.073	8	1	0	0	0	0	6	0	3	3	0	0	0	1	21	Thiopseudomonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Thiopseudomonas;s__	S2-073	Thiopseudomonas(G) S2-073
+binning_output.263	2	0	1	3	1	1	7	0	1	5	0	0	0	1	21	MS024-2A(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MS024-2A;s__	S2-263	MS024-2A(G) S2-263
+binning_output.239	6	0	1	3	0	1	2	0	5	0	0	0	2	1	20	Pseudomonadaceae(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__;s__	S2-239	Pseudomonadaceae(F) S2-239
+binning_output.274	2	0	0	2	0	0	7	0	3	6	0	0	0	1	20	Trichococcus flocculiformis(S)	d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Aerococcaceae;g__Trichococcus;s__Trichococcus flocculiformis	S2-274	Trichococcus flocculiformis(S) S2-274
+binning_output.181	5	1	1	2	0	0	5	0	2	4	0	0	0	0	20	Erythrobacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	S2-181	Erythrobacter(G) S2-181
+binning_output.125	1	0	3	2	0	1	10	0	0	3	0	0	0	1	20	Phocaeicola(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola;s__	S2-125	Phocaeicola(G) S2-125
+binning_output.281	2	0	1	3	0	3	1	0	2	8	0	0	0	1	20	Luminiphilus(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Luminiphilus;s__	S2-281	Luminiphilus(G) S2-281
+binning_output.084	2	0	0	0	0	1	13	0	0	4	0	0	0	2	20	Cloacibacterium(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Weeksellaceae;g__Cloacibacterium;s__	S2-084	Cloacibacterium(G) S2-084
+binning_output.206	4	0	1	1	0	0	8	0	0	5	0	0	0	3	19	Bacteria(D)	d__Bacteria;p__;c__;o__;f__;g__;s__	S2-206	Bacteria(D) S2-206
+binning_output.195	4	0	2	2	0	0	5	0	2	3	0	0	0	2	18	CAJJDF01(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__CAJJDF01;g__CAJJDF01;s__	S2-195	CAJJDF01(G) S2-195
+binning_output.067	1	0	1	1	0	0	11	0	0	3	0	0	1	1	18	MED-G52 sp002682975(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__MED-G52;s__MED-G52 sp002682975	S2-067	MED-G52 sp002682975(S) S2-067
+binning_output.204	4	0	1	2	0	3	6	0	0	2	0	0	0	0	18	JANQLC01(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__JANQLC01;g__;s__	S2-204	JANQLC01(F) S2-204
+binning_output.279	2	1	1	1	0	0	5	2	1	4	0	0	1	1	18	MB11C04(G)	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__MB11C04;g__MB11C04;s__	S2-279	MB11C04(G) S2-279
+binning_output.273	6	0	0	3	0	0	5	0	2	1	0	0	1	2	18	CANHHI01(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__CANHHI01;g__;s__	S2-273	CANHHI01(F) S2-273
+binning_output.025	2	0	0	2	2	0	10	0	0	2	0	0	0	0	18	MAG-120531 sp024643325(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MAG-120531;s__MAG-120531 sp024643325	S2-025	MAG-120531 sp024643325(S) S2-025
+binning_output.150	1	3	0	5	1	0	2	0	2	4	0	0	0	3	18	Erythrobacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	S2-150	Erythrobacter(G) S2-150
+binning_output.172	3	1	0	1	1	0	5	0	1	4	0	0	1	1	17	JAFGUR01(G)	d__Bacteria;p__Fusobacteriota;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__JAFGUR01;s__	S2-172	JAFGUR01(G) S2-172
+binning_output.139	3	1	1	1	0	1	1	1	3	5	0	0	0	0	17	Neisseria suis(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Neisseriaceae;g__Neisseria;s__Neisseria suis	S2-139	Neisseria suis(S) S2-139
+binning_output.143	7	0	0	0	0	1	1	0	6	2	0	0	0	0	17	Unclassified (U)	Unclassified	S2-143	Unclassified (U) S2-143
+binning_output.262	1	1	0	2	2	0	5	0	0	4	1	0	1	1	17	Pontimonas(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Pontimonas;s__	S2-262	Pontimonas(G) S2-262
+binning_output.190	2	0	2	1	0	0	7	0	1	4	0	0	0	0	17	Flavobacteriaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__;s__	S2-190	Flavobacteriaceae(F) S2-190
+binning_output.218	1	0	1	1	0	0	2	0	4	5	2	0	1	0	17	Burkholderiaceae(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__;s__	S2-218	Burkholderiaceae(F) S2-218
+binning_output.135	6	0	1	4	0	0	0	0	1	5	0	0	0	0	17	HIMB11(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__HIMB11;s__	S2-135	HIMB11(G) S2-135
+binning_output.197	1	0	0	4	0	1	4	0	3	4	0	0	0	1	17	JALQTR01(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__JALQTR01;s__	S2-197	JALQTR01(G) S2-197
+binning_output.092	3	1	0	1	0	0	7	0	0	5	0	0	0	0	17	Microcella(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Microcella;s__	S2-092	Microcella(G) S2-092
+binning_output.238	10	0	0	0	0	1	2	0	2	2	0	0	0	0	17	Bacteroidota(P)	d__Bacteria;p__Bacteroidota;c__;o__;f__;g__;s__	S2-238	Bacteroidota(P) S2-238
+binning_output.075	1	3	0	2	0	1	3	0	5	2	0	0	0	0	17	Unclassified Bacteria (D)	Unclassified Bacteria	S2-075	Unclassified Bacteria (D) S2-075
+binning_output.177	1	0	1	1	0	0	6	0	3	3	0	0	1	0	16	Pelagibacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Pelagibacterales;f__Pelagibacteraceae;g__Pelagibacter;s__	S2-177	Pelagibacter(G) S2-177
+binning_output.146	1	0	0	1	0	0	10	1	2	0	0	1	0	0	16	Halarcobacter(G)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Halarcobacter;s__	S2-146	Halarcobacter(G) S2-146
+binning_output.121	1	0	1	0	0	0	4	0	4	4	0	1	1	0	16	JALRJW01(G)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__JALRJW01;s__	S2-121	JALRJW01(G) S2-121
+binning_output.283	3	0	0	4	0	1	5	0	0	3	0	0	0	0	16	DMER64 sp001512865(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__DMER64;s__DMER64 sp001512865	S2-283	DMER64 sp001512865(S) S2-283
+binning_output.065	3	1	0	1	0	0	3	1	0	6	0	0	1	1	16	Tolumonas auensis(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Aeromonadaceae;g__Tolumonas;s__Tolumonas auensis	S2-065	Tolumonas auensis(S) S2-065
+binning_output.227	5	0	0	2	0	1	1	0	6	1	0	0	0	0	16	Unclassified Bacteria (D)	Unclassified Bacteria	S2-227	Unclassified Bacteria (D) S2-227
+binning_output.213	0	1	0	2	0	1	9	0	0	2	0	0	1	0	16	Schleiferiaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae;g__;s__	S2-213	Schleiferiaceae(F) S2-213
+binning_output.289	1	0	1	1	0	0	3	0	4	5	0	0	1	1	16	Sulfurimonas(G)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Sulfurimonadaceae;g__Sulfurimonas;s__	S2-289	Sulfurimonas(G) S2-289
+binning_output.156	1	1	0	2	0	1	3	0	4	3	0	0	0	0	15	HTCC2207 sp002457245(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__HTCC2207;s__HTCC2207 sp002457245	S2-156	HTCC2207 sp002457245(S) S2-156
+binning_output.126	1	2	1	1	0	1	7	0	0	2	0	0	0	0	15	Draconibacterium(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Prolixibacteraceae;g__Draconibacterium;s__	S2-126	Draconibacterium(G) S2-126
+binning_output.127	3	1	0	4	0	0	1	1	1	3	1	0	0	0	15	Psychrobacter faecalis(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter;s__Psychrobacter faecalis	S2-127	Psychrobacter faecalis(S) S2-127
+binning_output.039	0	1	0	0	0	0	8	0	2	3	0	0	1	0	15	Aliarcobacter(G)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Aliarcobacter;s__	S2-039	Aliarcobacter(G) S2-039
+binning_output.050	5	0	0	1	0	0	4	0	4	0	0	0	1	0	15	Aeromonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Aeromonadaceae;g__Aeromonas;s__	S2-050	Aeromonas(G) S2-050
+binning_output.140	9	0	0	0	0	0	2	0	1	1	1	0	0	2	14	Bacteria(D)	d__Bacteria;p__;c__;o__;f__;g__;s__	S2-140	Bacteria(D) S2-140
+binning_output.032	2	0	0	0	1	0	3	0	3	3	1	0	1	0	14	Aliarcobacter acticola(S)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Aliarcobacter;s__Aliarcobacter acticola	S2-032	Aliarcobacter acticola(S) S2-032
+binning_output.021	2	0	0	1	0	1	3	0	4	2	0	0	1	0	14	Comamonas denitrificans_A(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Comamonas;s__Comamonas denitrificans_A	S2-021	Comamonas denitrificans_A(S) S2-021
+binning_output.157	3	0	0	2	0	1	4	0	3	1	0	0	0	0	14	UBA1994(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA1994;s__	S2-157	UBA1994(G) S2-157
+binning_output.165	2	0	2	0	0	2	5	0	1	2	0	0	0	0	14	Marinisoma(G)	d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__Marinisomataceae;g__Marinisoma;s__	S2-165	Marinisoma(G) S2-165
+binning_output.176	2	0	0	2	0	0	4	0	1	4	0	0	1	0	14	Campylobacteria(C)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__;f__;g__;s__	S2-176	Campylobacteria(C) S2-176
+binning_output.130	5	0	0	1	1	0	1	0	0	5	0	0	1	1	14	Pontimonas(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Pontimonas;s__	S2-130	Pontimonas(G) S2-130
+binning_output.313	1	1	0	1	0	0	2	1	4	3	0	1	0	0	14	Lentimonas(G)	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Coraliomargaritaceae;g__Lentimonas;s__	S2-313	Lentimonas(G) S2-313
+binning_output.026	2	0	1	5	0	1	2	0	0	3	0	0	0	0	14	Unclassified Bacteria (D)	Unclassified Bacteria	S2-026	Unclassified Bacteria (D) S2-026
+binning_output.100	2	0	0	3	0	0	4	1	0	4	0	0	0	0	14	Prevotella copri_B(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella copri_B	S2-100	Prevotella copri_B(S) S2-100
+binning_output.312	3	1	2	2	0	0	1	0	1	4	0	0	0	1	14	Allorhizobium(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhizobiales;f__Rhizobiaceae;g__Allorhizobium;s__	S2-312	Allorhizobium(G) S2-312
+binning_output.198	7	0	0	1	0	1	5	0	0	0	0	0	0	1	14	Unclassified Bacteria (D)	Unclassified Bacteria	S2-198	Unclassified Bacteria (D) S2-198
+binning_output.108	3	1	1	1	0	1	6	1	0	0	0	0	0	1	14	Phocaeicola(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola;s__	S2-108	Phocaeicola(G) S2-108
+binning_output.219	0	0	0	1	0	1	8	0	0	3	0	0	0	0	13	UBA10364 sp030829675(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae;g__UBA10364;s__UBA10364 sp030829675	S2-219	UBA10364 sp030829675(S) S2-219
+binning_output.229	1	0	0	4	1	1	1	0	2	1	0	0	2	0	13	Pseudomonadaceae(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__;s__	S2-229	Pseudomonadaceae(F) S2-229
+binning_output.226	0	0	0	3	0	0	6	0	0	3	1	0	0	2	13	SW10 sp002323895(S)	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Verrucomicrobiales;f__Akkermansiaceae;g__SW10;s__SW10 sp002323895	S2-226	SW10 sp002323895(S) S2-226
+binning_output.074	1	0	0	0	0	0	3	0	3	4	0	0	2	0	13	Pseudomonadota(P)	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__;s__	S2-074	Pseudomonadota(P) S2-074
+binning_output.155	0	0	0	3	0	0	3	0	0	7	0	0	0	1	13	D2472(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__D2472;g__;s__	S2-155	D2472(F) S2-155
+binning_output.106	1	1	0	4	0	0	1	0	2	4	0	0	0	1	13	HIMB11(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__HIMB11;s__	S2-106	HIMB11(G) S2-106
+binning_output.068	2	0	0	1	0	1	2	0	3	4	0	0	0	0	13	Unclassified Bacteria (D)	Unclassified Bacteria	S2-068	Unclassified Bacteria (D) S2-068
+binning_output.260	5	0	0	1	0	1	2	0	1	2	0	0	1	2	13	SAT41(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__SAT41;g__;s__	S2-260	SAT41(F) S2-260
+binning_output.046	3	0	0	0	0	1	4	0	0	5	0	0	0	1	13	UBA9145(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__	S2-046	UBA9145(G) S2-046
+binning_output.179	1	0	0	1	0	0	10	0	0	1	0	0	0	0	13	GCA-002705445(O)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__GCA-002705445;f__;g__;s__	S2-179	GCA-002705445(O) S2-179
+binning_output.049	3	0	0	2	0	1	2	0	3	2	0	0	0	0	13	Acidovorax(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Acidovorax;s__	S2-049	Acidovorax(G) S2-049
+binning_output.141	6	1	0	2	0	0	1	0	0	3	0	0	0	0	13	UBA7441(G)	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Coraliomargaritaceae;g__UBA7441;s__	S2-141	UBA7441(G) S2-141
+binning_output.104	3	0	0	2	0	0	2	1	1	3	0	0	0	0	12	RS62(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__RS62;s__	S2-104	RS62(G) S2-104
+binning_output.188	4	0	0	1	0	0	2	0	2	3	0	0	0	1	12	UBA3478 sp016780435(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA3478;s__UBA3478 sp016780435	S2-188	UBA3478 sp016780435(S) S2-188
+binning_output.234	1	1	1	1	0	0	2	0	1	5	0	0	0	0	12	UBA9145(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__	S2-234	UBA9145(G) S2-234
+binning_output.199	0	0	0	0	1	1	6	0	0	4	0	0	0	0	12	UBA1275(G)	d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__UBA1275;s__	S2-199	UBA1275(G) S2-199
+binning_output.023	2	0	0	1	0	0	3	0	3	1	0	1	0	1	11	Erythrobacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	S2-023	Erythrobacter(G) S2-023
+binning_output.006	1	0	0	0	0	0	6	0	3	0	0	0	1	1	11	Aliarcobacter(G)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Aliarcobacter;s__	S2-006	Aliarcobacter(G) S2-006
+binning_output.233	1	0	1	0	0	0	4	0	0	5	0	0	0	0	11	CTSOIL-112 sp017986195(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__CTSOIL-112;s__CTSOIL-112 sp017986195	S2-233	CTSOIL-112 sp017986195(S) S2-233
+binning_output.136	0	0	0	1	0	0	4	0	1	5	0	0	0	0	11	JALRLI01(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__JALRLI01;s__	S2-136	JALRLI01(G) S2-136
+binning_output.255	3	0	0	0	0	0	4	0	1	2	0	0	1	3	11	Pelagibacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Pelagibacterales;f__Pelagibacteraceae;g__Pelagibacter;s__	S2-255	Pelagibacter(G) S2-255
+binning_output.098	0	0	0	2	0	0	4	0	1	3	0	0	1	1	11	Lentibacter algarum(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Lentibacter;s__Lentibacter algarum	S2-098	Lentibacter algarum(S) S2-098
+binning_output.116	2	0	1	0	0	0	5	0	0	3	0	0	0	1	11	HIMB11(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__HIMB11;s__	S2-116	HIMB11(G) S2-116
+binning_output.117	0	0	0	4	0	2	0	0	3	2	0	0	0	0	11	Unclassified Bacteria (D)	Unclassified Bacteria	S2-117	Unclassified Bacteria (D) S2-117
+binning_output.161	2	0	0	3	0	1	3	0	0	1	0	0	0	1	10	Bacteria(D)	d__Bacteria;p__;c__;o__;f__;g__;s__	S2-161	Bacteria(D) S2-161
+binning_output.302	0	0	0	1	0	0	7	0	0	2	0	0	0	2	10	UBA8316(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA8316;s__	S2-302	UBA8316(G) S2-302
+binning_output.216	5	2	0	0	0	0	0	0	0	3	0	0	0	1	10	Succinivibrio(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio;s__	S2-216	Succinivibrio(G) S2-216
+binning_output.259	3	0	0	0	0	0	5	0	1	1	0	0	0	0	10	Unclassified Bacteria (D)	Unclassified Bacteria	S2-259	Unclassified Bacteria (D) S2-259
+binning_output.200	4	0	0	0	1	0	0	0	0	5	0	0	0	0	10	Thauera(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Thauera;s__	S2-200	Thauera(G) S2-200
+binning_output.174	1	0	0	2	0	0	1	0	1	5	0	0	0	2	10	Pseudomonadota(P)	d__Bacteria;p__Pseudomonadota;c__;o__;f__;g__;s__	S2-174	Pseudomonadota(P) S2-174
+binning_output.287	2	0	0	2	0	0	1	0	2	3	0	0	0	0	10	Unclassified Bacteria (D)	Unclassified Bacteria	S2-287	Unclassified Bacteria (D) S2-287
+binning_output.137	2	0	0	0	1	0	1	0	1	4	0	0	1	0	10	HIMB11(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__HIMB11;s__	S2-137	HIMB11(G) S2-137
+binning_output.105	2	0	0	1	0	1	0	0	1	5	0	0	0	1	10	HIMB11(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__HIMB11;s__	S2-105	HIMB11(G) S2-105
+binning_output.149	2	1	0	1	0	1	3	0	1	1	0	0	0	0	10	UBA12202 sp024639485(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Puniceispirillales;f__UBA1172;g__UBA12202;s__UBA12202 sp024639485	S2-149	UBA12202 sp024639485(S) S2-149
+binning_output.119	2	0	0	1	0	0	4	0	0	3	0	0	0	1	10	MAG-120531(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MAG-120531;s__	S2-119	MAG-120531(G) S2-119
+binning_output.096	4	0	2	0	0	0	2	0	0	1	0	0	0	0	9	Thiomicrorhabdus(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Thiomicrospirales;f__Thiomicrospiraceae;g__Thiomicrorhabdus;s__	S2-096	Thiomicrorhabdus(G) S2-096
+binning_output.205	3	0	0	0	0	0	3	0	0	3	0	0	0	1	9	MS024-2A(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MS024-2A;s__	S2-205	MS024-2A(G) S2-205
+binning_output.251	1	1	0	2	0	0	2	0	0	1	0	0	2	3	9	Aquiluna(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Aquiluna;s__	S2-251	Aquiluna(G) S2-251
+binning_output.033	3	0	0	2	0	1	1	0	0	2	0	0	0	1	9	Marinobacterium_E sp949499045(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Nitrincolaceae;g__Marinobacterium_E;s__Marinobacterium_E sp949499045	S2-033	Marinobacterium_E sp949499045(S) S2-033
+binning_output.258	4	0	0	2	0	1	1	0	1	0	0	0	0	0	9	Unclassified Bacteria (D)	Unclassified Bacteria	S2-258	Unclassified Bacteria (D) S2-258
+binning_output.142	1	0	1	1	0	0	4	0	0	2	0	0	0	0	9	Luminiphilus(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halieaceae;g__Luminiphilus;s__	S2-142	Luminiphilus(G) S2-142
+binning_output.280	2	0	0	0	0	0	3	0	3	1	0	0	0	1	9	Succinivibrio sp000431835(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Succinivibrionaceae;g__Succinivibrio;s__Succinivibrio sp000431835	S2-280	Succinivibrio sp000431835(S) S2-280
+binning_output.168	2	0	0	1	0	0	4	0	1	1	0	0	0	0	9	Unclassified Bacteria (D)	Unclassified Bacteria	S2-168	Unclassified Bacteria (D) S2-168
+binning_output.254	1	0	1	2	0	0	3	0	0	2	0	0	0	1	9	Unclassified Bacteria (D)	Unclassified Bacteria	S2-254	Unclassified Bacteria (D) S2-254
+binning_output.288	1	0	0	1	0	0	2	0	2	1	0	0	1	1	8	Planktothricoides(G)	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__PCC-6304;g__Planktothricoides;s__	S2-288	Planktothricoides(G) S2-288
+binning_output.291	1	0	0	4	0	1	0	0	1	1	0	0	0	1	8	Unclassified Bacteria (D)	Unclassified Bacteria	S2-291	Unclassified Bacteria (D) S2-291
+binning_output.215	1	0	0	0	0	0	2	0	2	3	0	0	0	0	8	Bacteria(D)	d__Bacteria;p__;c__;o__;f__;g__;s__	S2-215	Bacteria(D) S2-215
+binning_output.250	1	0	0	3	0	1	1	0	1	1	0	0	0	0	8	Unclassified (U)	Unclassified	S2-250	Unclassified (U) S2-250
+binning_output.270	1	0	0	2	0	1	2	0	0	2	0	0	0	0	8	Unclassified Bacteria (D)	Unclassified Bacteria	S2-270	Unclassified Bacteria (D) S2-270
+binning_output.315	1	0	1	3	0	0	1	0	1	1	0	0	0	0	8	Unclassified Bacteria (D)	Unclassified Bacteria	S2-315	Unclassified Bacteria (D) S2-315
+binning_output.178	2	0	0	0	0	0	3	0	1	2	0	0	0	4	8	UBA3478(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA3478;s__	S2-178	UBA3478(G) S2-178
+binning_output.013	0	0	0	2	0	0	4	0	2	0	0	0	0	1	8	Flavobacterium sp019105125(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium sp019105125	S2-013	Flavobacterium sp019105125(S) S2-013
+binning_output.055	3	0	0	0	0	0	3	0	1	1	0	0	0	0	8	Marisimplicoccus(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Marisimplicoccus;s__	S2-055	Marisimplicoccus(G) S2-055
+binning_output.095	1	0	0	2	0	1	0	0	1	2	1	0	0	1	8	HIMB11(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__HIMB11;s__	S2-095	HIMB11(G) S2-095
+binning_output.018	1	0	0	0	1	0	2	0	0	2	1	0	1	0	8	Aquiluna(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Aquiluna;s__	S2-018	Aquiluna(G) S2-018
+binning_output.112	3	0	0	0	0	0	3	0	0	2	0	0	0	2	8	UBA3478(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA3478;s__	S2-112	UBA3478(G) S2-112
+binning_output.082	1	1	0	0	0	1	3	0	1	0	0	0	0	2	7	EhC02(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__EhC02;s__	S2-082	EhC02(G) S2-082
+binning_output.152	0	0	0	1	1	0	4	0	0	1	0	0	0	0	7	Gammaproteobacteria(C)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__;f__;g__;s__	S2-152	Gammaproteobacteria(C) S2-152
+binning_output.066	1	0	0	0	0	0	3	0	0	1	1	0	1	0	7	HIMB59(F)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__HIMB59;f__HIMB59;g__;s__	S2-066	HIMB59(F) S2-066
+binning_output.296	1	0	1	1	1	0	1	0	1	1	0	0	0	0	7	Unclassified (U)	Unclassified	S2-296	Unclassified (U) S2-296
+binning_output.089	4	0	0	0	0	0	1	0	2	0	0	0	0	0	7	Nitrosomonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Nitrosomonadaceae;g__Nitrosomonas;s__	S2-089	Nitrosomonas(G) S2-089
+binning_output.228	0	0	0	2	2	0	1	0	0	1	1	0	0	1	7	Aquiluna(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Aquiluna;s__	S2-228	Aquiluna(G) S2-228
+binning_output.223	3	0	0	0	0	0	0	0	1	2	1	0	0	2	7	Aquiluna(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Aquiluna;s__	S2-223	Aquiluna(G) S2-223
+binning_output.015	2	0	0	1	0	0	1	0	0	3	0	0	0	1	7	Leucobacter(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Leucobacter;s__	S2-015	Leucobacter(G) S2-015
+binning_output.299	0	0	0	2	0	0	1	0	0	4	0	0	0	0	7	Unclassified (U)	Unclassified	S2-299	Unclassified (U) S2-299
+binning_output.277	1	0	1	1	0	1	1	0	0	2	0	0	0	0	7	Lishizhenia(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__Lishizhenia;s__	S2-277	Lishizhenia(G) S2-277
+binning_output.201	5	0	0	0	0	0	0	0	0	2	0	0	0	0	7	Cereibacter_A(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Cereibacter_A;s__	S2-201	Cereibacter_A(G) S2-201
+binning_output.002	1	0	0	0	0	2	0	0	3	1	0	0	0	0	7	Aliarcobacter cryaerophilus_A(S)	d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Arcobacteraceae;g__Aliarcobacter;s__Aliarcobacter cryaerophilus_A	S2-002	Aliarcobacter cryaerophilus_A(S) S2-002
+binning_output.037	2	0	0	1	0	0	2	0	2	0	0	0	0	1	7	Planktomarina sp002683685(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Planktomarina;s__Planktomarina sp002683685	S2-037	Planktomarina sp002683685(S) S2-037
+binning_output.080	1	0	0	1	0	0	1	0	1	2	0	0	0	0	6	M30B80 sp015693905(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__M30B80;s__M30B80 sp015693905	S2-080	M30B80 sp015693905(S) S2-080
+binning_output.306	1	0	0	1	0	0	1	0	1	1	1	0	0	0	6	Unclassified Bacteria (D)	Unclassified Bacteria	S2-306	Unclassified Bacteria (D) S2-306
+binning_output.034	1	0	0	2	1	0	1	0	0	1	0	0	0	0	6	Flavobacteriaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__;s__	S2-034	Flavobacteriaceae(F) S2-034
+binning_output.064	2	0	0	2	0	1	1	0	0	0	0	0	0	0	6	HIMB59(F)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__HIMB59;f__HIMB59;g__;s__	S2-064	HIMB59(F) S2-064
+binning_output.212	2	0	0	2	0	0	1	0	0	1	0	0	0	0	6	JALRLI01(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__JALRLI01;s__	S2-212	JALRLI01(G) S2-212
+binning_output.209	2	0	0	2	0	0	0	0	1	1	0	0	0	0	6	Unclassified Bacteria (D)	Unclassified Bacteria	S2-209	Unclassified Bacteria (D) S2-209
+binning_output.298	1	0	0	0	0	0	2	0	2	1	0	0	0	0	6	Unclassified (U)	Unclassified	S2-298	Unclassified (U) S2-298
+binning_output.267	1	0	0	0	0	0	2	0	0	2	0	0	1	1	6	Flavobacteriaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__;s__	S2-267	Flavobacteriaceae(F) S2-267
+binning_output.132	4	0	0	0	0	0	2	0	0	0	0	0	0	0	6	Pseudomonas_E(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E;s__	S2-132	Pseudomonas_E(G) S2-132
+binning_output.295	3	0	0	0	0	1	0	0	1	0	0	0	0	0	5	Lentimonas(G)	d__Bacteria;p__Verrucomicrobiota;c__Verrucomicrobiae;o__Opitutales;f__Coraliomargaritaceae;g__Lentimonas;s__	S2-295	Lentimonas(G) S2-295
+binning_output.081	3	0	0	0	0	0	2	0	0	0	0	0	0	2	5	UBA7446 sp024639165(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA7446;s__UBA7446 sp024639165	S2-081	UBA7446 sp024639165(S) S2-081
+binning_output.079	4	0	0	0	0	0	1	0	0	0	0	0	0	0	5	UBA3478(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__UBA3478;s__	S2-079	UBA3478(G) S2-079
+binning_output.083	1	0	0	2	0	0	0	0	1	1	0	0	0	0	5	Unclassified Bacteria (D)	Unclassified Bacteria	S2-083	Unclassified Bacteria (D) S2-083
+binning_output.085	1	0	0	0	0	0	0	0	2	2	0	0	0	1	5	Pseudotabrizicola(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Pseudotabrizicola;s__	S2-085	Pseudotabrizicola(G) S2-085
+binning_output.004	2	0	0	1	0	0	1	0	0	0	0	0	1	0	5	Acinetobacter(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__	S2-004	Acinetobacter(G) S2-004
+binning_output.166	2	0	0	0	0	0	2	0	1	0	0	0	0	0	5	Unclassified Bacteria (D)	Unclassified Bacteria	S2-166	Unclassified Bacteria (D) S2-166
+binning_output.170	0	0	0	1	0	0	1	0	0	3	0	0	0	0	5	Pelagibacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Pelagibacterales;f__Pelagibacteraceae;g__Pelagibacter;s__	S2-170	Pelagibacter(G) S2-170
+binning_output.061	3	0	0	0	0	0	0	0	0	2	0	0	0	0	5	SGZJ01(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__SGZJ01;s__	S2-061	SGZJ01(G) S2-061
+binning_output.041	2	0	0	0	0	0	0	0	2	1	0	0	0	0	5	LGRT01 sp001642945(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__LGRT01;s__LGRT01 sp001642945	S2-041	LGRT01 sp001642945(S) S2-041
+binning_output.162	4	0	0	0	0	0	0	0	0	1	0	0	0	0	5	GCA-2707915(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__SAR86;g__GCA-2707915;s__	S2-162	GCA-2707915(G) S2-162
+binning_output.035	2	0	1	0	0	0	0	0	0	2	0	0	0	0	5	D2472(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__D2472;g__;s__	S2-035	D2472(F) S2-035
+binning_output.308	0	0	0	2	0	0	1	0	0	1	1	0	0	0	5	Unclassified Bacteria (D)	Unclassified Bacteria	S2-308	Unclassified Bacteria (D) S2-308
+binning_output.253	2	0	0	1	0	0	0	0	1	0	0	0	0	0	4	Bacteria(D)	d__Bacteria;p__;c__;o__;f__;g__;s__	S2-253	Bacteria(D) S2-253
+binning_output.053	2	0	0	0	0	1	1	0	0	0	0	0	0	0	4	Bacteroides_I graminisolvens(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides_I;s__Bacteroides_I graminisolvens	S2-053	Bacteroides_I graminisolvens(S) S2-053
+binning_output.014	1	0	0	1	0	0	2	0	0	0	0	0	0	0	4	Marinobacterium_E(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Nitrincolaceae;g__Marinobacterium_E;s__	S2-014	Marinobacterium_E(G) S2-014
+binning_output.300	0	0	0	0	0	0	3	0	0	1	0	0	0	0	4	Unclassified (U)	Unclassified	S2-300	Unclassified (U) S2-300
+binning_output.045	0	0	0	0	0	0	4	0	0	0	0	0	0	0	4	MAG-120531(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MAG-120531;s__	S2-045	MAG-120531(G) S2-045
+binning_output.264	1	0	1	0	0	0	0	0	1	0	0	1	0	0	4	Unclassified Bacteria (D)	Unclassified Bacteria	S2-264	Unclassified Bacteria (D) S2-264
+binning_output.191	1	0	0	1	0	0	0	1	0	1	0	0	0	1	4	MS024-2A(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MS024-2A;s__	S2-191	MS024-2A(G) S2-191
+binning_output.301	0	0	0	1	0	0	2	0	1	0	0	0	0	0	4	Unclassified (U)	Unclassified	S2-301	Unclassified (U) S2-301
+binning_output.088	3	0	0	1	0	0	0	0	0	0	0	0	0	0	4	Gemmobacter_B(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Gemmobacter_B;s__	S2-088	Gemmobacter_B(G) S2-088
+binning_output.202	0	0	0	0	0	0	1	0	2	0	0	1	0	0	4	GCA-002733105(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Nitrosococcales;f__Methylophagaceae;g__GCA-002733105;s__	S2-202	GCA-002733105(G) S2-202
+binning_output.211	1	1	0	0	0	0	1	0	0	1	0	0	0	0	4	Unclassified Bacteria (D)	Unclassified Bacteria	S2-211	Unclassified Bacteria (D) S2-211
+binning_output.138	0	0	0	0	1	0	2	0	1	0	0	0	0	0	4	Unclassified (U)	Unclassified	S2-138	Unclassified (U) S2-138
+binning_output.118	1	0	0	0	0	0	1	0	0	2	0	0	0	0	4	Pontimonas(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Pontimonas;s__	S2-118	Pontimonas(G) S2-118
+binning_output.110	0	0	0	0	0	0	1	0	1	2	0	0	0	0	4	Tepidimonas(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Tepidimonas;s__	S2-110	Tepidimonas(G) S2-110
+binning_output.220	1	0	0	0	0	0	1	0	1	1	0	0	0	0	4	Unclassified Bacteria (D)	Unclassified Bacteria	S2-220	Unclassified Bacteria (D) S2-220
+binning_output.109	3	0	0	0	0	0	1	0	0	0	0	0	0	0	4	GCA-2707915 sp913031395(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__SAR86;g__GCA-2707915;s__GCA-2707915 sp913031395	S2-109	GCA-2707915 sp913031395(S) S2-109
+binning_output.097	0	0	0	1	0	0	2	0	0	1	0	0	0	0	4	Nereida sp024640765(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Nereida;s__Nereida sp024640765	S2-097	Nereida sp024640765(S) S2-097
+binning_output.282	2	0	0	0	0	0	0	0	1	0	0	0	1	0	4	Unclassified Bacteria (D)	Unclassified Bacteria	S2-282	Unclassified Bacteria (D) S2-282
+binning_output.243	1	0	0	1	0	0	1	0	0	1	0	0	0	0	4	Unclassified Bacteria (D)	Unclassified Bacteria	S2-243	Unclassified Bacteria (D) S2-243
+binning_output.304	0	0	0	3	0	0	0	0	0	1	0	0	0	0	4	Unclassified (U)	Unclassified	S2-304	Unclassified (U) S2-304
+binning_output.236	2	0	0	1	0	0	1	0	0	0	0	0	0	1	4	UBA6165(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA6165;s__	S2-236	UBA6165(G) S2-236
+binning_output.303	0	0	0	1	0	0	2	0	0	1	0	0	0	0	4	Unclassified (U)	Unclassified	S2-303	Unclassified (U) S2-303
+binning_output.294	0	0	0	0	0	0	2	0	0	1	0	0	0	0	3	Lishizhenia(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__Lishizhenia;s__	S2-294	Lishizhenia(G) S2-294
+binning_output.031	0	0	0	2	0	1	0	0	0	0	0	0	0	0	3	Pseudothioglobus(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae;g__Pseudothioglobus;s__	S2-031	Pseudothioglobus(G) S2-031
+binning_output.208	2	0	0	0	0	0	0	0	0	1	0	0	0	0	3	Flavobacteriaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__;s__	S2-208	Flavobacteriaceae(F) S2-208
+binning_output.309	2	0	0	0	1	0	0	0	0	0	0	0	0	2	3	Azotimanducaceae_A(F)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Azotimanducaceae_A;g__;s__	S2-309	Azotimanducaceae_A(F) S2-309
+binning_output.069	0	0	0	1	0	0	0	0	0	2	0	0	0	0	3	MAG-120531 sp022239325(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MAG-120531;s__MAG-120531 sp022239325	S2-069	MAG-120531 sp022239325(S) S2-069
+binning_output.017	1	0	0	0	0	0	0	0	1	0	0	0	1	0	3	Erythrobacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Erythrobacter;s__	S2-017	Erythrobacter(G) S2-017
+binning_output.090	1	0	0	0	0	0	1	0	1	0	0	0	0	1	3	Polaribacter sp947503855(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Polaribacter;s__Polaribacter sp947503855	S2-090	Polaribacter sp947503855(S) S2-090
+binning_output.237	2	0	0	0	0	0	1	0	0	0	0	0	0	0	3	Parasynechococcus(G)	d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Parasynechococcus;s__	S2-237	Parasynechococcus(G) S2-237
+binning_output.099	0	0	0	0	0	0	2	0	0	1	0	0	0	0	3	Crocinitomicaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__;s__	S2-099	Crocinitomicaceae(F) S2-099
+binning_output.290	0	0	1	0	0	0	2	0	0	0	0	0	0	0	3	Flavobacteriaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__;s__	S2-290	Flavobacteriaceae(F) S2-290
+binning_output.094	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	M30B80(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__M30B80;s__	S2-094	M30B80(G) S2-094
+binning_output.012	0	0	0	1	0	0	0	0	0	2	0	0	0	0	3	Amylibacter(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Amylibacter;s__	S2-012	Amylibacter(G) S2-012
+binning_output.016	1	0	0	0	0	0	1	0	0	0	0	0	0	0	2	Pseudothioglobus sp902509905(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__PS1;f__Thioglobaceae;g__Pseudothioglobus;s__Pseudothioglobus sp902509905	S2-016	Pseudothioglobus sp902509905(S) S2-016
+binning_output.011	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	Microcella(G)	d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Microbacteriaceae;g__Microcella;s__	S2-011	Microcella(G) S2-011
+binning_output.010	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	Unclassified (U)	Unclassified	S2-010	Unclassified (U) S2-010
+binning_output.305	0	0	0	1	0	0	0	0	0	1	0	0	0	0	2	Unclassified (U)	Unclassified	S2-305	Unclassified (U) S2-305
+binning_output.019	0	0	0	0	0	0	2	0	0	0	0	0	0	0	2	GCA-2402025(F)	d__Bacteria;p__Chlamydiota;c__Chlamydiia;o__Chlamydiales;f__GCA-2402025;g__;s__	S2-019	GCA-2402025(F) S2-019
+binning_output.063	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	Aquabacterium(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae;g__Aquabacterium;s__	S2-063	Aquabacterium(G) S2-063
+binning_output.160	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	Marinisomataceae(F)	d__Bacteria;p__Marinisomatota;c__Marinisomatia;o__Marinisomatales;f__Marinisomataceae;g__;s__	S2-160	Marinisomataceae(F) S2-160
+binning_output.173	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	Unclassified Bacteria (D)	Unclassified Bacteria	S2-173	Unclassified Bacteria (D) S2-173
+binning_output.060	1	0	0	0	0	0	1	0	0	0	0	0	0	0	2	Unclassified Bacteria (D)	Unclassified Bacteria	S2-060	Unclassified Bacteria (D) S2-060
+binning_output.058	0	0	0	1	0	0	1	0	0	0	0	0	0	0	2	Bacteroides_I graminisolvens(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides_I;s__Bacteroides_I graminisolvens	S2-058	Bacteroides_I graminisolvens(S) S2-058
+binning_output.077	1	0	0	0	0	0	1	0	0	0	0	0	0	0	2	UBA10364(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae;g__UBA10364;s__	S2-077	UBA10364(G) S2-077
+binning_output.071	0	0	1	0	0	0	0	0	0	1	0	0	0	0	2	Unclassified Bacteria (D)	Unclassified Bacteria	S2-071	Unclassified Bacteria (D) S2-071
+binning_output.040	1	0	0	0	0	0	1	0	0	0	0	0	0	0	2	Unclassified Bacteria (D)	Unclassified Bacteria	S2-040	Unclassified Bacteria (D) S2-040
+binning_output.036	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	MAG-121220-bin8 sp905479415(S)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__MAG-121220-bin8;s__MAG-121220-bin8 sp905479415	S2-036	MAG-121220-bin8 sp905479415(S) S2-036
+binning_output.278	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	Unclassified Bacteria (D)	Unclassified Bacteria	S2-278	Unclassified Bacteria (D) S2-278
+binning_output.030	2	0	0	0	0	0	0	0	0	0	0	0	0	0	2	UBA9145(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudohongiellaceae;g__UBA9145;s__	S2-030	UBA9145(G) S2-030
+binning_output.003	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	Unclassified (U)	Unclassified	S2-003	Unclassified (U) S2-003
+binning_output.005	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Marinobacterium_E(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Nitrincolaceae;g__Marinobacterium_E;s__	S2-005	Marinobacterium_E(G) S2-005
+binning_output.159	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	Unclassified Bacteria (D)	Unclassified Bacteria	S2-159	Unclassified Bacteria (D) S2-159
+binning_output.093	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	Unclassified (U)	Unclassified	S2-093	Unclassified (U) S2-093
+binning_output.091	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	Nereida sp024640765(S)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__Nereida;s__Nereida sp024640765	S2-091	Nereida sp024640765(S) S2-091
+binning_output.086	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	Novosphingobium(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Novosphingobium;s__	S2-086	Novosphingobium(G) S2-086
+binning_output.240	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	Unclassified Bacteria (D)	Unclassified Bacteria	S2-240	Unclassified Bacteria (D) S2-240
+binning_output.078	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	Novosphingobium(G)	d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Sphingomonadales;f__Sphingomonadaceae;g__Novosphingobium;s__	S2-078	Novosphingobium(G) S2-078
+binning_output.022	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	SCGC-AAA076-P13(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__D2472;g__SCGC-AAA076-P13;s__	S2-022	SCGC-AAA076-P13(G) S2-022
+binning_output.248	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	Unclassified Bacteria (D)	Unclassified Bacteria	S2-248	Unclassified Bacteria (D) S2-248
+binning_output.070	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	Zoogloea(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Rhodocyclaceae;g__Zoogloea;s__	S2-070	Zoogloea(G) S2-070
+binning_output.020	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	Actinomarina(G)	d__Bacteria;p__Actinomycetota;c__Acidimicrobiia;o__Actinomarinales;f__Actinomarinaceae;g__Actinomarina;s__	S2-020	Actinomarina(G) S2-020
+binning_output.252	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	Unclassified (U)	Unclassified	S2-252	Unclassified (U) S2-252
+binning_output.062	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	SCGC-AAA076-P13(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__D2472;g__SCGC-AAA076-P13;s__	S2-062	SCGC-AAA076-P13(G) S2-062
+binning_output.057	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	UBA10364(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Schleiferiaceae;g__UBA10364;s__	S2-057	UBA10364(G) S2-057
+binning_output.047	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	Unclassified (U)	Unclassified	S2-047	Unclassified (U) S2-047
+binning_output.043	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Psychrobacter fulvigenes(S)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Psychrobacter;s__Psychrobacter fulvigenes	S2-043	Psychrobacter fulvigenes(S) S2-043
+binning_output.269	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Ichthyobacteriaceae(F)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Ichthyobacteriaceae;g__;s__	S2-269	Ichthyobacteriaceae(F) S2-269
+binning_output.286	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Lishizhenia(G)	d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__Lishizhenia;s__	S2-286	Lishizhenia(G) S2-286
+binning_output.001	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	Acinetobacter(G)	d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__	S2-001	Acinetobacter(G) S2-001
+binning_output.115	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Unclassified Bacteria (D)	Unclassified Bacteria	S2-115	Unclassified Bacteria (D) S2-115
+binning_output.054	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	Unclassified Bacteria (D)	Unclassified Bacteria	S2-054	Unclassified Bacteria (D) S2-054

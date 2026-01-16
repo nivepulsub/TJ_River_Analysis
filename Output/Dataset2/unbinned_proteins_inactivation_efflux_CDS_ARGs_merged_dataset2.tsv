@@ -1,0 +1,151 @@
+CARD_Protein_Accession	CARD_Protein_Description	NCBI_Nucleotide_ID	CDS_Name	10_S15.sorted Read Count	12_S16.sorted Read Count	13_S17.sorted Read Count	14_S18.sorted Read Count	1_S6.sorted Read Count	2_S7.sorted Read Count	3_S8.sorted Read Count	4_S9.sorted Read Count	5_S10.sorted Read Count	6_S11.sorted Read Count	7_S12.sorted Read Count	8_S13.sorted Read Count	9_S14.sorted Read Count
+AKQ05891.1	gb|AKQ05891.1|tet(47) [uncultured bacterium]	KR857681.1	tet(47)	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAA16527.1	gb|AAA16527.1|ANT(9)-Ib [Enterococcus faecalis]	M69221.1	aad9	0	0	0	0	0	0	0	0	0	0	0	0	0
+AEO25219.1	gb|AEO25219.1|lin [Listeria monocytogenes FSL R2-561]	CP002003.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+WLO97155.1	gb|WLO97155.1|DHA-31 [Morganella morganii]	OR398192.1	blaDHA	0	0	0	0	0	0	0	0	0	0	0	0	0
+BDT38936.1	gb|BDT38936.1|OXA-1163 [Aeromonas caviae]	LC733701.1	blaOXA	6	0	0	0	0	0	45	56	72	7	40	9	25
+AAA92254.1	gb|AAA92254.1|ANT(4')-Ia [Plasmid pTB913]	K02551.1	kan	6	0	0	0	0	0	18	23	7	0	22	3	0
+WGW19926.1	gb|WGW19926.1|KPC-172 [Klebsiella pneumoniae]	OQ856771.1	blaKPC	0	0	0	0	0	0	4	0	0	0	0	0	0
+AND91341.1	gb|AND91341.1|BJP-1 [Bradyrhizobium diazoefficiens USDA 110]	CP011360.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AJE92936.1	gb|AJE92936.1|mphK [Bacillus subtilis subsp. subtilis]	CP010314.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+DAC85639.1	gb|DAC85639.1|FosM1 [Bacillus massiliigabonensis]	BK012111.1	fosM	0	0	0	0	0	0	0	0	0	0	0	0	0
+UZX27393.1	gb|UZX27393.1|BMHC-1 [Riemerella anatipestifer]	CP110126.1	bla	0	0	0	0	0	0	0	0	0	0	0	0	0
+ABL75154.1	gb|ABL75154.1|OKP-B-14 [Klebsiella pneumoniae]	DQ995288.1		0	0	0	0	0	0	0	2	0	0	0	0	0
+AKQ05894.1	gb|AKQ05894.1|tet(50) [uncultured bacterium]	KR857684.1	tet(50)	0	0	0	0	0	0	0	0	0	0	0	0	0
+AKO62864.1	gb|AKO62864.1|CMY-127 [Citrobacter freundii]	KM985465.1	blaCMY-127	0	0	0	0	0	0	5	4	10	0	5	12	8
+AAA27471.1	gb|AAA27471.1|tet(X) [Bacteroides fragilis]	M37699.1	tetX	0	0	4	0	0	0	21	20	18	2	9	4	42
+QVO43839.1	gb|QVO43839.1|OXA-965 [Shewanella algae]	MZ092832.1	blaOXA	0	0	0	0	0	0	0	0	0	0	0	0	0
+UAN43462.1	gb|UAN43462.1|FRI-11 [Enterobacter sp. JBIWA008]	CP074152.1	blaFRI	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAI57696.1	gb|CAI57696.1|aadA14 [Pasteurella multocida]	AJ884726.1	aadA14	0	0	0	0	0	0	0	0	0	0	2	0	4
+APB03222.1	gb|APB03222.1|rphB [Paenibacillus sp. LC231]	KX531052.1	rphB	0	0	0	0	0	0	0	0	0	0	0	0	0
+BAP18892.1	gb|BAP18892.1|FosA4 [Escherichia coli]	AB908992.1	FosA4	0	0	0	0	0	0	0	0	0	0	0	0	1
+AAN73274.1	gb|AAN73274.1|KLUG-1 [Kluyvera georgiana]	AF501233.1	blaKLUG-1	0	0	0	0	0	0	0	0	0	0	0	0	0
+ABG49324.1	gb|ABG49324.1|aadA9 [Corynebacterium sp. L2-79-05]	DQ390458.1		0	0	0	0	0	0	4	0	0	0	4	0	0
+AJP77071.1	gb|AJP77071.1|PEDO-2 [Pedobacter sp. ALS-14]	KP109678.1	blaPEDO-2	0	0	0	0	0	0	0	0	0	0	0	0	0
+ACH59005.1	gb|ACH59005.1|LRA-19 [uncultured bacterium BLR19]	EU408359.1	blaLRA-19	0	0	0	0	0	0	0	0	0	0	0	0	0
+CDL68900.1	gb|CDL68900.1|DHA-12 [Proteus mirabilis]	HG798963.1	blaDHA-12	0	0	0	0	0	0	0	0	0	0	0	0	0
+DAC85640.1	gb|DAC85640.1|FosM2 [Gracilibacillus timonensis]	BK012112.1	fosM	0	0	0	0	0	0	0	0	0	0	0	0	0
+BAA32494.1	gb|BAA32494.1|FomB [Streptomyces wedmorensis]	AB016934.1	fomB	0	0	0	0	0	0	0	0	0	0	0	0	0
+CBE03766.1	gb|CBE03766.1|Clostridioides difficile nimB [Clostridioides difficile R20291]	FN545816.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+APE19944.1	gb|APE19944.1|Streptomyces venezuelae rox [Streptomyces venezuelae]	CP018074.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+QBQ85438.1	gb|QBQ85438.1|tet(X3) [Acinetobacter baumannii]	MK134375.1	tetX	0	0	4	0	0	0	6	6	10	1	28	1	12
+BAF34030.1	gb|BAF34030.1|BLMT [Escherichia coli]	AB255435.1	ble	0	0	0	0	0	0	1	0	0	0	0	0	0
+ABU39980.1	gb|ABU39980.1|BCL-1 [Alkalihalobacillus clausii]	EF540343.1	bcl1	0	0	0	0	0	0	0	0	0	0	0	0	0
+ALF06101.1	gb|ALF06101.1|CBP-1 [Clostridium botulinum]	KP718480.1	blaCBP	0	0	0	0	0	0	0	0	0	0	0	0	0
+ABS70977.1	gb|ABS70977.1|AAC(3)-IId [Escherichia coli]	EU022314.1	aacC2	2	0	0	0	0	0	0	0	8	0	11	0	10
+CAD60969.1	gb|CAD60969.1|HER-5 [Atlantibacter hermannii]	AJ536089.1	bla	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAN63647.1	gb|AAN63647.1|MUS-1 [Myroides odoratimimus]	AF441286.1	MUS-1	0	0	0	0	0	0	0	0	0	0	0	0	0
+BES62776.2	gb|BES62776.2|DYB-1 [Dysgonomonas capnocytophagoides]	AP028867.1	bla2	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAB36568.1	gb|AAB36568.1|cmlv [Streptomyces venezuelae ATCC 10712]	U09991.1	cmlv	0	0	0	0	0	0	0	0	0	0	0	0	0
+AUW34365.1	gb|AUW34365.1|RSA1-1 [uncultured bacterium]	MG739510.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAF86220.1	gb|AAF86220.1|vatE [Enterococcus faecium]	AF242872.1	vat(E)	0	0	0	0	0	0	0	0	0	0	0	0	0
+ACH58991.1	gb|ACH58991.1|LRA-13 [uncultured bacterium BLR13]	EU408352.1	blaLRA-13	0	0	0	0	0	0	0	0	0	0	0	0	0
+ACH58994.1	gb|ACH58994.1|LRA-17 [uncultured bacterium BLR17]	EU408354.1	blaLRA-17	0	0	0	0	0	0	0	0	0	0	0	0	0
+ABS43901.1	gb|ABS43901.1|cmeA [Campylobacter jejuni subsp. doylei 269.97]	CP000768.1	cmeA	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG03548.1	gb|AAG03548.1|TriC [Pseudomonas aeruginosa PAO1]	AE004091.2		0	0	0	0	0	0	3	6	1	0	3	0	0
+APB03214.1	gb|APB03214.1|tetA(58) [Paenibacillus sp. LC231]	KX531044.1	tetA-48	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAA64891.1	gb|CAA64891.1|mtrE [Neisseria gonorrhoeae]	X95635.1	mtrE	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAK76136.1	gb|AAK76136.1|patB [Streptococcus pneumoniae TIGR4]	AE005672.3		0	0	0	0	0	0	0	0	0	0	0	0	0
+ABS43151.1	gb|ABS43151.1|cmeB [Campylobacter jejuni subsp. doylei 269.97]	CP000768.1	cmeB	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAD51346.1	gb|AAD51346.1|smeC [Stenotrophomonas maltophilia]	AF173226.1	smeC	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAC14595.1	gb|CAC14595.1|smeE [Stenotrophomonas maltophilia]	AJ252200.1	smeE	0	0	1	0	8	0	31	9	8	0	9	4	0
+AAC73564.1	gb|AAC73564.1|acrB [Escherichia coli str. K-12 substr. MG1655]	U00096.3	acrB	2	0	0	0	2	0	50	34	25	1	28	7	71
+AAC73788.1	gb|AAC73788.1|kdpE [Escherichia coli str. K-12 substr. MG1655]	U00096.3	kdpE	0	0	0	0	0	0	10	2	0	0	1	0	8
+AAF74725.1	gb|AAF74725.1|Mef(En2) [Bacteroides fragilis]	AF251288.1	mefEn2	19	0	0	0	0	0	49	69	16	2	25	24	44
+AEX49906.1	gb|AEX49906.1|basS [Pseudomonas aeruginosa]	JQ340365.1	pmrB	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAH35803.1	gb|CAH35803.1|amrA [Burkholderia pseudomallei K96243]	BX571965.1	amrA	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAC75136.1	gb|AAC75136.1|mdtB [Escherichia coli str. K-12 substr. MG1655]	U00096.3	mdtB	2	0	0	0	0	0	31	14	9	0	32	0	42
+APB03219.1	gb|APB03219.1|TaeA [Paenibacillus sp. LC231]	KX531049.1	taeA	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAF67494.2	gb|AAF67494.2|novA [Streptomyces niveus]	AF170880.4	novA	0	0	0	0	0	0	0	0	0	0	0	0	0
+BAD89844.2	gb|BAD89844.2|abeM [Acinetobacter baumannii]	AB204810.2	abeM	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAC77293.1	gb|AAC77293.1|mdtM [Escherichia coli str. K-12 substr. MG1655]	U00096.3	mdtM	4	0	0	0	0	0	10	6	5	0	15	1	20
+AAG05914.1	gb|AAG05914.1|MuxC [Pseudomonas aeruginosa PAO1]	AE004091.2		0	0	2	0	0	0	9	5	0	0	3	4	2
+AAG03380.1	gb|AAG03380.1|cmx [Corynebacterium striatum]	AF024666.2	cmxB	0	0	4	0	2	0	11	1	0	0	1	0	0
+ANZ79240.1	gb|ANZ79240.1|tetA(60) [uncultured bacterium]	KX000272.1	tetA(60)	0	0	0	0	0	0	0	0	0	0	0	0	0
+ACJ41547.2	gb|ACJ41547.2|Acinetobacter baumannii AbaQ [Acinetobacter baumannii AB0057]	CP001182.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+CAH14033.1	gb|CAH14033.1|LpeB [Legionella pneumophila str. Paris]	CR628336.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAA99504.1	gb|AAA99504.1|bcrA [Bacillus licheniformis]	L20573.1	bcrA	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAH14032.1	gb|CAH14032.1|LpeA [Legionella pneumophila str. Paris]	CR628336.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AFK80333.1	gb|AFK80333.1|facT [Streptomyces sp. WAC05292]	JQ768046.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG05882.1	gb|AAG05882.1|MexF [Pseudomonas aeruginosa PAO1]	AE004091.2	mexF	9	0	2	0	0	0	59	76	29	11	28	5	11
+CAJ77857.1	gb|CAJ77857.1|adeG [Acinetobacter baumannii AYE]	CT025800.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAF42062.1	gb|AAF42062.1|mtrD [Neisseria meningitidis MC58]	AE002098.2	mtrD	0	0	0	0	0	0	0	0	0	0	0	0	0
+BAO79432.1	gb|BAO79432.1|cmeC [Campylobacter jejuni subsp. jejuni]	AB894099.1	cmeC	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAB58161.1	gb|AAB58161.1|ceoB [Burkholderia cepacia]	U97042.1	ceoB	0	0	0	0	0	0	0	0	0	0	4	0	0
+AAC76298.1	gb|AAC76298.1|AcrF [Escherichia coli str. K-12 substr. MG1655]	U00096.3	acrF	2	0	0	0	0	0	41	28	17	9	19	8	67
+AAV85982.1	gb|AAV85982.1|macB [Neisseria gonorrhoeae]	AY768532.1	macB	0	0	0	0	0	0	0	0	0	0	0	0	0
+ALX99516.1	gb|ALX99516.1|adeC [Acinetobacter baumannii]	CP013924.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG07763.1	gb|AAG07763.1|MexW [Pseudomonas aeruginosa PAO1]	AE004091.2		7	0	1	0	0	0	24	26	28	4	18	13	3
+AAC60780.1	gb|AAC60780.1|rosB [Yersinia enterocolitica (type O:8)]	U46859.1	rosB	0	0	0	0	0	0	0	0	0	0	0	0	0
+AET10444.1	gb|AET10444.1|tetA(46) [Streptococcus australis]	HQ652506.1	steA	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG03546.1	gb|AAG03546.1|TriA [Pseudomonas aeruginosa PAO1]	AE004091.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+CAJ77856.1	gb|CAJ77856.1|adeF [Acinetobacter baumannii AYE]	CT025801.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAL14440.1	gb|AAL14440.1|adeB [Acinetobacter baumannii]	AF370885.1	adeB	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAC74000.1	gb|AAC74000.1|msbA [Escherichia coli str. K-12 substr. MG1655]	U00096.3	msbA	0	0	0	0	0	0	13	8	2	2	4	2	30
+AAC75137.1	gb|AAC75137.1|mdtC [Escherichia coli str. K-12 substr. MG1655]	U00096.3	mdtC	7	0	4	0	0	0	26	19	13	0	8	15	50
+AYV52072.1	gb|AYV52072.1|lmrD [Lactococcus lactis]	CP033607.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG03814.1	gb|AAG03814.1|MexA [Pseudomonas aeruginosa PAO1]	AE004091.2	mexA	0	0	0	0	0	0	0	4	0	0	0	0	0
+AAG05913.1	gb|AAG05913.1|OpmB [Pseudomonas aeruginosa PAO1]	AE004091.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG06466.1	gb|AAG06466.1|cprS [Pseudomonas aeruginosa PAO1]	AE004091.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+BAE06006.1	gb|BAE06006.1|mexN [Pseudomonas aeruginosa]	AB219523.1	mexN	0	0	0	0	0	0	0	0	1	0	0	0	0
+AAG03816.1	gb|AAG03816.1|OprM [Pseudomonas aeruginosa PAO1]	AE004091.2	oprM	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAX14802.1	gb|AAX14802.1|adeJ [Acinetobacter baumannii]	AY769962.1	adeJ	0	0	0	0	0	0	5	1	7	0	16	1	20
+AAG05881.1	gb|AAG05881.1|MexE [Pseudomonas aeruginosa PAO1]	AE004091.2	mexE	0	0	1	0	0	0	0	3	0	0	2	0	1
+AAG08162.1	gb|AAG08162.1|basR [Pseudomonas aeruginosa PAO1]	AE004091.2	pmrA	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG07593.1	gb|AAG07593.1|MexH [Pseudomonas aeruginosa PAO1]	AE004091.2	mexH	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG05915.1	gb|AAG05915.1|MuxB [Pseudomonas aeruginosa PAO1]	AE004091.2		0	1	0	0	0	0	18	11	3	1	4	3	0
+BAE06008.1	gb|BAE06008.1|mexQ [Pseudomonas aeruginosa]	AB219524.1	mexQ	0	0	6	0	0	0	2	0	1	0	0	0	6
+ACQ82816.1	gb|ACQ82816.1|Acinetobacter baumannii AmvA [Acinetobacter baumannii]	FJ911554.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+QIH19826.1	gb|QIH19826.1|Neisseria gonorrhoeae mtrC with mutation conferring resistance to azithromycin [Neisseria gonorrhoeae]	CP043871.1	mtrC	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAH35802.1	gb|CAH35802.1|amrB [Burkholderia pseudomallei K96243]	BX571965.1	amrB	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAL19305.1	gb|AAL19305.1|mdsB [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	AE006468.2		0	0	0	0	0	0	0	0	2	0	0	0	0
+AAA20116.1	gb|AAA20116.1|tetA(P) [Clostridium perfringens]	L20800.1	tetA(P)	0	0	1	0	0	0	0	0	0	0	1	0	3
+ABW91179.1	gb|ABW91179.1|cmlA8 [Pseudomonas aeruginosa]	EU182575.1	cmlA8	33	0	1	0	0	0	115	91	95	13	177	49	17
+ALV80601.1	gb|ALV80601.1|bcr-1 [Pseudomonas aeruginosa]	CP012901.1	bcr_2	0	0	0	0	0	0	0	0	0	0	0	0	0
+ACJ41739.1	gb|ACJ41739.1|adeI [Acinetobacter baumannii AB0057]	CP001182.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG07064.1	gb|AAG07064.1|MexK [Pseudomonas aeruginosa PAO1]	AE004091.2		3	0	30	0	11	0	33	24	22	1	32	10	9
+AAA26793.1	gb|AAA26793.1|oleC [Streptomyces antibioticus]	L06249.1	oleC-ORF4	0	0	0	0	0	0	0	0	0	0	0	0	0
+BAA14147.1	gb|BAA14147.1|Staphylococcus aureus norA [Staphylococcus aureus]	D90119.1	norA	0	0	0	0	0	0	0	0	0	0	0	0	0
+ABO11759.2	gb|ABO11759.2|Acinetobacter baumannii AbaF [Acinetobacter baumannii ATCC 17978]	CP000521.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+VWQ04090.1	gb|VWQ04090.1|mlaD [Escherichia coli]	LR730402.1	mlaD	0	0	0	0	0	0	3	2	7	0	0	0	3
+AAR96051.1	gb|AAR96051.1|otr(C) [Streptomyces rimosus]	AY509111.1	otrC	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAC60781.1	gb|AAC60781.1|rosA [Yersinia enterocolitica (type O:8)]	U46859.1	rosA	0	0	0	0	0	0	0	0	0	0	0	0	0
+VWQ04088.1	gb|VWQ04088.1|mlaF [Escherichia coli]	LR730402.1	mlaF	0	0	2	0	0	0	9	6	6	0	10	0	12
+AAA74437.1	gb|AAA74437.1|MexB [Pseudomonas aeruginosa]	L11616.1	mexB	0	0	6	1	1	0	16	23	13	3	14	5	10
+AAC44316.1	gb|AAC44316.1|qacEdelta1 [Pseudomonas aeruginosa]	U49101.1	qacEdelta1	20	4	9	0	3	0	149	95	137	15	157	32	61
+AAK99775.1	gb|AAK99775.1|mef(E) [Streptococcus pneumoniae R6]	AE007317.1	mefE	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG05883.1	gb|AAG05883.1|OprN [Pseudomonas aeruginosa PAO1]	AE004091.2	oprN	0	0	0	0	0	0	0	0	0	0	0	0	0
+KIX81495.1	gb|KIX81495.1|lmrB [Bacillus subtilis]	JYFL01000006.1	lmrB	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAO82599.1	gb|AAO82599.1|Enterococcus faecalis liaR mutant conferring daptomycin resistance [Enterococcus faecalis V583]	AE016830.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAW38464.1	gb|AAW38464.1|Staphylococcus aureus LmrS [Staphylococcus aureus subsp. aureus COL]	CP000046.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+BAA34300.1	gb|BAA34300.1|mexY [Pseudomonas aeruginosa PAO1]	AB015853.1	mexY	0	0	0	0	0	0	0	0	0	0	0	0	0
+ACS83748.1	gb|ACS83748.1|tet(43) [uncultured bacterium AOTet43]	GQ244501.1	tet43	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAK76137.1	gb|AAK76137.1|patA [Streptococcus pneumoniae TIGR4]	AE005672.3		0	0	0	0	0	0	0	0	0	0	0	0	0
+ADO96486.1	gb|ADO96486.1|hmrM [Haemophilus influenzae R2846]	CP002276.1	hmrM	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAL14439.1	gb|AAL14439.1|adeA [Acinetobacter baumannii]	AF370885.1	adeA	0	0	0	0	0	0	0	0	0	0	0	0	0
+CAA78046.1	gb|CAA78046.1|Rhodococcus fascians cmr [Rhodococcus fascians]	Z12001.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+CAA75663.1	gb|CAA75663.1|tet(H) [Pasteurella multocida]	Y15510.1	tetH	2	0	0	0	0	0	2	0	14	2	21	2	9
+BAE78084.1	gb|BAE78084.1|mdtN [Escherichia coli str. K-12 substr. W3110]	AP009048.1	yjcR	0	0	2	0	0	0	6	2	2	0	1	0	15
+ADZ12699.1	gb|ADZ12699.1|RanA [Riemerella anatipestifer RA-GD]	CP002562.1		0	0	0	0	0	0	0	6	0	0	0	0	0
+CYF42523.1	gb|CYF42523.1|kdpD [Staphylococcus aureus]	FHDU01000010.1	kdpD	0	0	0	0	0	0	0	0	0	0	0	0	0
+BAA07072.1	gb|BAA07072.1|pp-flo [Photobacterium damselae subsp. piscicida]	D37826.1		0	0	0	0	0	0	7	4	17	0	34	2	13
+AAB41957.1	gb|AAB41957.1|MexD [Pseudomonas aeruginosa]	U57969.1	mexD	1	0	0	0	0	0	5	7	3	1	6	0	1
+AAC76539.1	gb|AAC76539.1|mdtF [Escherichia coli str. K-12 substr. MG1655]	U00096.3	mdtF	2	0	0	0	0	0	41	26	18	0	5	10	55
+BAE78082.1	gb|BAE78082.1|mdtP [Escherichia coli str. K-12 substr. W3110]	AP009048.1	yjcP	0	0	2	0	0	0	15	17	7	0	0	2	43
+BAA11237.1	gb|BAA11237.1|emrY [Escherichia coli]	D78168.1		0	0	0	0	0	0	5	5	4	0	5	2	28
+AAC76297.1	gb|AAC76297.1|AcrE [Escherichia coli str. K-12 substr. MG1655]	U00096.3	acrE	0	0	0	0	0	0	4	7	4	4	0	0	14
+AFK58562.1	gb|AFK58562.1|Enterococcus faecium liaR mutant conferring daptomycin resistance [Enterococcus faecium DO]	CP003583.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+CAD70268.1	gb|CAD70268.1|fexA [Mammaliicoccus lentus]	AJ549214.1	fexA	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG04750.1	gb|AAG04750.1|PmpM [Pseudomonas aeruginosa PAO1]	AE004091.2		0	0	1	0	0	0	1	0	0	0	0	0	0
+BAG75524.1	gb|BAG75524.1|efmA [Enterococcus faecium]	AB467372.1	efmA	0	0	0	0	0	0	0	0	0	0	0	0	0
+AAC75271.1	gb|AAC75271.1|YojI [Escherichia coli str. K-12 substr. MG1655]	U00096.3	yojI	0	0	0	0	0	0	20	18	5	0	6	0	14
+CAC41008.1	gb|CAC41008.1|Klebsiella pneumoniae acrA [Klebsiella pneumoniae]	AJ318073.1	acrA	0	0	0	0	0	0	3	7	2	0	2	0	2
+BAA16547.1	gb|BAA16547.1|emrA [Escherichia coli str. K-12 substr. W3110]	AP009048.1	emrA	0	0	0	0	0	0	17	4	4	0	6	0	23
+AAL19306.1	gb|AAL19306.1|mdsA [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]	AE006468.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAG07594.1	gb|AAG07594.1|MexI [Pseudomonas aeruginosa PAO1]	AE004091.2	mexI	0	0	0	0	2	0	4	5	0	0	7	2	0
+ACD35503.1	gb|ACD35503.1|tet(42) [Micrococcus sp. SMCC G887]	EU523697.1	tetA42	0	0	0	0	0	0	0	0	0	0	0	0	0
+AFK58561.1	gb|AFK58561.1|Enterococcus faecium liaS mutant conferring daptomycin resistance [Enterococcus faecium DO]	CP003583.1		0	0	0	0	0	0	0	0	0	0	0	0	0
+AIA35096.1	gb|AIA35096.1|LptD [Klebsiella pneumoniae subsp. pneumoniae KPNIH10]	CP007727.1		4	0	0	0	0	0	2	2	0	0	2	0	4
+AAG07065.1	gb|AAG07065.1|MexJ [Pseudomonas aeruginosa PAO1]	AE004091.2		0	0	0	0	0	0	0	0	0	0	0	0	0
+AAD25063.1	gb|AAD25063.1|tet(Z) [Corynebacterium glutamicum]	AF121000.1	tetA	0	0	0	0	0	0	0	0	0	0	0	2	0
+CAD55144.1	gb|CAD55144.1|qacJ [Staphylococcus aureus]	AJ512814.1	qacJ	0	0	0	0	0	0	0	0	0	0	0	0	0

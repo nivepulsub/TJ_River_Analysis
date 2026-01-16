@@ -1,0 +1,104 @@
+---
+title: "TJ_22_Read_Count_NMDS_dataset1"
+output: html_document
+date: "2025-11-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(vegan)
+library(ggplot2)
+```
+
+#Preprocessing data
+```{r}
+#Import the ARG Read Count table for Dataset1
+#This table contains ARG read counts per sample
+dataset = read.csv("../../Data/Dataset1/ARGs_CDS_feature_table_dataset1.csv",row.names = 1, check.names = FALSE)
+head(dataset)
+
+#Import the mapping file
+map = read.csv("../../Data/Dataset1/00_TJRIVER_mappingfile.csv")
+head(map)
+
+```
+#RCLR Standardization
+```{r}
+dataset_rclr <- decostand(dataset, method = "rclr")
+head(dataset_rclr)
+
+```
+#Minimum value imputation
+#Find the minimum value of the dataset:
+```{r}
+dataset_rclr_min_value <- min(dataset_rclr)
+dataset_rclr_min_value
+```
+#Substitute "0" with the minimum value we got from the above step
+```{r}
+dataset_rclr_min_sub = dataset_rclr # Copy the data
+
+dataset_rclr_min_sub[dataset_rclr_min_sub == 0] = dataset_rclr_min_value
+head(dataset_rclr_min_sub)
+
+#saving the file
+write.csv(dataset_rclr_min_sub, "../../Output/Dataset1/ARG_rclr_dataset1.csv", row.names = TRUE)
+
+```
+#PERMANOVA Analysis:
+```{r}
+#Create a Euclidean distance matrix
+rclr_dist<-vegdist(dataset_rclr_min_sub, method='euclidean')
+data_matrix <- as.matrix(rclr_dist)
+
+#Convert to matrix for inspection
+dim(data_matrix)
+dim(map)
+
+#Run PERMANOVA with 9999 permutations
+permanova_1 <- adonis2(rclr_dist ~ site, data = map, permutations = 9999)
+permanova_1
+permanova_2 <- adonis2(rclr_dist ~ date, data = map, permutations = 9999)
+permanova_2
+permanova_3 <- adonis2(rclr_dist ~ number, data = map, permutations = 9999)
+permanova_3
+
+#The p-value 0.0235 indicates there is a significant difference with site
+#The p-value 0.333 indicates there is no significant difference with date
+#The p-value 0.8782 indicates there is no significant difference with number(sample)
+```
+#NMDS ordination
+```{r}
+#Run NMDS on the already RCLR-transformed dataset using Euclidean distance
+data_rclr_nmds = metaMDS(dataset_rclr_min_sub, distance = "euclidean", parallel = 2, k = 2)
+
+#Report Stress from the NMDS
+stress <- data_rclr_nmds$stress
+stress
+#Stress value of 0.06723649 is a very good fit
+
+#Convert to dataframe for ggplot
+data_rclr_nmds = as.data.frame(scores(data_rclr_nmds))
+
+```
+#Visualization with NMDS
+```{r}
+#Convert variables to factors
+data_rclr_nmds$number <- as.factor(map$number)
+data_rclr_nmds$site <- as.factor(map$site)
+data_rclr_nmds$date <- as.factor(map$date)
+
+#NMDS plot
+metagen_nmdsplot <- ggplot(data_rclr_nmds, aes(x = NMDS1, y = NMDS2)) +
+  geom_point(aes(colour=site,shape=date),size = 3) +   
+  geom_text_repel(aes(label = number), size = 2, vjust = -1) +  
+  ggtitle('NMDS of ARG counts Across Samples - Dataset 1') +
+  theme_classic() +
+  theme(
+    plot.title = element_text(color="black", size=10, face="bold"),
+    panel.background = element_rect(fill = "white",
+                                    colour = "black"))
+  
+metagen_nmdsplot
+
+```

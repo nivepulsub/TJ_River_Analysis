@@ -1,6 +1,6 @@
 Metagenomic Analysis of Dataset1 and Dataset2:
 
-This project involves datasets from two different studies: Allsing et al., 2022 and Shahar et al., 2024. The input files are stored in the Data/ directory, with separate subfolders for Dataset1 and Dataset2.
+This project involves datasets from two different studies: Allsing et al., 2022 (ENA Project Accession Number PRJEB57859) and Shahar et al., 2024 (NCBI BioProject Number PRJNA1423341). The input files are stored in the Data/ directory, with separate subfolders for Dataset1 and Dataset2.
 
 All analyses were performed using R, Python, and Jupyter Notebooks, which are organized under the Scripts/ directory, with separate subfolders for Dataset1 and Dataset2, respectively. To facilitate correlation network analysis, the libs/ folder contains the required library, pybootnet.py, which is used to identify associations between antibiotic resistance genes (ARGs) and metagenome-assembled genomes (MAGs).
 

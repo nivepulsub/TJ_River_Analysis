@@ -22,3 +22,17 @@ Within Virulence_factor_scripts/, the following scripts are included:
 2. Top_VF_hits.py
 3. VF_count_taxonomy.py
 Similarly, scripts such as blastp_for_VFs.py were run on a departmental Linux server and may require a significant amount of time to complete. They should be executed in the order listed to maintain workflow continuity.
+
+Bioinformatics Workflow Documentation:
+All preprocessing and genome-resolved metagenomic analyses — including quality control, assembly, binning, MAG quality assessment, taxonomic classification, functional annotation, read alignment, and abundance estimation — are documented in detail under the Workflow_Documentation/ directory.
+
+This documentation includes:
+1. Software versions
+2. Commands executed
+3. Parameter explanations
+4. Input and output descriptions
+5. Workflow numbering corresponding to the workflow diagram (Workflow_overview.pdf)
+
+This separation ensures clarity between:
+1. Downstream statistical analyses (Scripts/)
+2. Core bioinformatics pipeline steps (Workflow_Documentation/)
